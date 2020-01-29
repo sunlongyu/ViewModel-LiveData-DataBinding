@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ViewModel+LiveData+DataBinding</string>
+    <string name="buttonAdd">+1</string>
+</resources>
